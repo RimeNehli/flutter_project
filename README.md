@@ -1,10 +1,10 @@
 <h3>My Flutter APP</h3>
-<img src="screenshot1.png"/>
+<img src="screenshot1.PNG"/>
 <br></br>
-<img src="screenshot2.png"/>
+<img src="screenshot2.PNG"/>
 <br></br>
-<img src="screenshot3.png"/>
+<img src="screenshot3.PNG"/>
 <br></br>
-<img src="screenshot4.png"/>
+<img src="screenshot4.PNG"/>
 <br></br>
-<img src="screenshot5.png"/>
+<img src="screenshot5.PNG"/>
